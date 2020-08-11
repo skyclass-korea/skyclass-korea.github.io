@@ -1,11 +1,10 @@
 module.exports = {
     title: 'imnotkind wiki',
     description: 'wiki',
-    base: '/doc/docs/.vuepress/dist',
+    base: '/dist/',
     themeConfig: {
         logo: '/favicon.ico',
         nav: [
-            { text: 'GitHub', link: 'https://github.com/imnotkind' },
             { text: 'Homepage', link: 'https://skyclass.github.io' } 
         ],
         sidebar: getSidebarArr()
