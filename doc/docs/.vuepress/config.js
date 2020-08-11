@@ -1,11 +1,11 @@
 module.exports = {
-    title: 'imnotkind wiki',
+    title: 'skyclass todo',
     description: 'wiki',
     base: '/dist/',
     themeConfig: {
         logo: '/favicon.ico',
         nav: [
-            { text: 'Homepage', link: 'https://skyclass.github.io' } 
+            { text: 'Homepage', link: 'https://skyclass-korea.github.io' } 
         ],
         sidebar: getSidebarArr()
     },
