@@ -1,7 +1,7 @@
 module.exports = {
     title: 'skyclass todo',
     description: 'wiki',
-    base: '/dist/',
+    base: '/slave/',
     themeConfig: {
         logo: '/favicon.ico',
         nav: [
