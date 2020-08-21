@@ -1,6 +1,0 @@
-*.log
-*.swp
-*.bak
-/node_modules/
-yarn-*
-yarn.*
